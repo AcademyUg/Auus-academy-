@@ -8,11 +8,11 @@ Welcome to the **National Volunteer Leaders Academy** repository!
 😊 
 About AUUS Academy
 **All About AUUS Academy:**
-- A part of the *International Federation of University Sports*.
-- Under this federation, we have the **Federation of Africa University Sports Federations**.
-- Within this federation, you can find the **Association of Uganda University Sports (AUUS)**.
 
-## Inaugural National Volunteer Leaders Academy
+
+**The mission of AUUS is To develop an integrated system of sports and academic excellence by focusing on developing an all-round sustainable student athlete
+
+## Inaugural National Volunteer Leaders Academy** 
 
 Auus Academy is the inaugural national volunteer leaders academy, an educational event. Come and attest!
 
