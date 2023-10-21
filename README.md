@@ -9,8 +9,7 @@ Welcome to the **National Volunteer Leaders Academy** repository!
 About AUUS Academy
 **All About AUUS Academy:**
 
-
-**The mission of AUUS is To develop an integrated system of sports and academic excellence by focusing on developing an all-round sustainable student athlete
+The mission of AUUS is To develop an integrated system of sports and academic excellence by focusing on developing an all-round sustainable student athlete
 
 ## Inaugural National Volunteer Leaders Academy** 
 
@@ -38,4 +37,5 @@ Auus presents National volunteer leaders academy
 - :mortar_board: **Educational Excellence**
 - :heart: **Passionate Community**
   ❤ 🤍 💙 🧡  ♥️ ❤ 🤍 💙 🧡 🖤
+
 
